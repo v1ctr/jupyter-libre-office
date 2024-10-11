@@ -184,4 +184,10 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python
